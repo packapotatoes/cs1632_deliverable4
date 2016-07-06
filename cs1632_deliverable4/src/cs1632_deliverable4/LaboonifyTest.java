@@ -9,7 +9,7 @@ import org.junit.Test;
 
 public class LaboonifyTest {
 	
-	private int numRepetitions = 1000000000;
+	private int numRepetitions = 100000;
 	Random rng = new Random();
 	@Before
 	public void setUp() throws Exception {
